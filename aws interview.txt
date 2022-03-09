@@ -1,0 +1,23 @@
+ My name is rama krishna. I come up with 4years of overall experience.
+ I have been working with smartried technologies pvt ltd as a cloud DevOps Engineer Since 2 years.
+
+I am good with devops tools GIT, Jenkins, Docker, Kubernetes.
+I have worked with various resources in AWS right from VPC, EC2, Route 53 for domain,
+ Cloud front as a Content Delivery Network, Load Balancers, Auto Scaling, ECS, EKS, S3, AWS Code Pipeline, API Gateway
+I have automated ci-cd process we are using jenkins,
+ i have integarted jenkins with the git repo in such a way when ever the developers check-in their code into github,
+ jenkins will notify it will download the code and build the code and store the war or jar file to the nexus repo
+later point of time jenkins will deploy this artifact into the dev environment and testing environment our test servers 
+are running on tomcat and jenkins will deploy into tomcat servers.
+we have an automation testing team who create testing program using seleinum(functional testing) and 
+jmeter(performance testing) jenkins will run this automation testing program and 
+check if the application is working currently if it is working correctly jenkins will deploy 1) I start my day with checking mails and jira ticket.
+2)Then checking notifications from monitoring system performance
+3) Then after i Provided help and support  for  support to developer
+4)every end of the day developer develop the code and finally they get a conclusion that everything is good then they  push the code into git-hub.
+ jenkins automatically triggers and build and test the code if it is success we will store that build in nexus repository.
+ And sonarqube is responsable for the code analysis and review wheather it is industrial standards or not. (build report for every week) 
+5)Then creating  job for depolyment based on requeriment by using jenkins
+
+6)Then after deploying code to dev and  production
+then after checking for proper appr…
